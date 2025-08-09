@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "142513968856",
+    "project_id": "fitnessapp-320a7",
+    "storage_bucket": "fitnessapp-320a7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142513968856:android:ee2a28ae108dfc660429ad",
+        "android_client_info": {
+          "package_name": "com.example.spor_programi_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdd6oG39hFiLuRqkEwf9PDgNlDt_KP2B8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
